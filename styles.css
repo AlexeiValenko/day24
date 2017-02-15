@@ -1,0 +1,39 @@
+.table {
+    margin: 0px;
+}
+
+.list {
+    width: 50vh;
+    overflow: auto;
+    border: solid 1px black;
+    background-color: cyan;
+}
+
+.day {
+    display: inline-block;
+    width: 7vh;
+    height: 7vh;
+    margin: 1px;
+    border: solid 1px black;
+    float: left;
+    background-color: aqua;
+}
+
+.row {
+    margin: 0px;
+    overflow: hidden;
+}
+.current {
+    background-color: blue;
+}
+
+.notes {
+    text-decoration: none;
+    position: relative;
+    top: 50%;
+    left: 30%;
+}
+
+.delete {
+    background-color: red;
+}
