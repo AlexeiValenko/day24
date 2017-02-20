@@ -11,8 +11,8 @@
 
 .day {
     display: inline-block;
-    width: 7vh;
-    height: 7vh;
+    width: 10vh;
+    height: 10vh;
     margin: 1px;
     border: solid 1px black;
     float: left;
